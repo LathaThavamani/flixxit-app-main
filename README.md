@@ -2,7 +2,7 @@
 ---
 Flixxit is a web application with the likeliness and basic features of OTT platforms such as Netflix, Prime video and AppleTV+.
 
-This apllication built using the MERN stack.
+This application built using the MERN stack.
 
 ### **Demo**
 ---
@@ -38,3 +38,44 @@ Access my site using this [link](https://flixxit-app-main.vercel.app/)
 ### **User Guide**
 ---
 Click [here](./UserGuide.pdf) to read User Guide with screen shots.
+
+### **Tech Library Used**
+---
+- HTML
+- CSS
+- Javascript & ES6
+- React
+- Hooks
+- Redux
+- Material UI
+- Fort Awesome / Font Awesome
+- React - Slick carousel slider
+- Node 
+- Express
+- Json Web token (JWT)
+- MongoDB
+- Mongoose
+  
+### **Installation and Setup instruction**
+---
+
+-Clone or download repository and you need node and npm installed globally on your machine.
+
+-Run ``npm install`` command in your current project termail to install node modules.  
+
+-Run ``npm run start`` command to open the site in the development mode.
+
+-Open http://localhost:3000 to view it in your browser.
+
+### **Status**
+---
+Flixxit version 2 will be available soon with extended features.
+
+### **Contributors**
+---
+[Latha Thavamani](https://github.com/LathaThavamani)
+
+### **Acknowledgments**
+---
+I will take all the responsiblity for every single line of code.  
+The design inspired from Netflix & Prime video.
