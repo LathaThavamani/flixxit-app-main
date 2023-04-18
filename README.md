@@ -61,7 +61,7 @@ Click [here](./UserGuide.pdf) to read User Guide with screen shots.
 
 -Clone or download repository and you need node and npm installed globally on your machine.
 
--Run ``npm install`` command in your current project termail to install node modules.  
+-Run ``npm install`` command in your current project terminal to install node modules.  
 
 -Run ``npm run start`` command to open the site in the development mode.
 
